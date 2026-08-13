@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "tm-marketing-marketplace",
+  "name": "tm-marketing-marketplace-staging",
   "description": "Ticketmaster central marketing org — Claude Code plugins for B2C and B2B marketing teams",
   "owner": {
     "name": "Ticketmaster Marketing",
