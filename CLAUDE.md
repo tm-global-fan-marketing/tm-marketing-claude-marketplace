@@ -4,15 +4,7 @@ This plugin provides marketing skills and the LN Confluence connector for Ticket
 
 ## Skills
 
-When the user's request matches a trigger below, invoke the corresponding skill IMMEDIATELY as your first action before responding or taking any other steps.
-
-| Skill | Triggers When |
-|---|---|
-| `tm-marketing-core:marketing-wizard` | Any general marketing request that doesn't explicitly name another skill — use this as the default entry point; it classifies and routes to the right skill |
-| `tm-marketing-core:backstage-writer` | User asks to write, rewrite, or review copy in the TM/LN brand voice, check tone/voice, or work with Fan Support, Product/UX, B2C, or B2B copy for a named product or messaging pillar |
-| `tm-marketing-core:brief-writer` | User asks to draft a Campaign and Creative Brief (B2C only) |
-| `tm-marketing-core:content-creator` | User needs a coordinated set of two or more B2B marketing assets (blog, case study, LinkedIn post, one-sheet, email, etc.) for a single campaign or theme |
-| `tm-marketing-core:social-pulse` | User wants to check social performance (Instagram, Facebook, X, TikTok) against market history or peer markets, or wants a testable content idea grounded in what's working elsewhere |
+No published skills yet. All skills are currently in draft — install the staging plugin (`tm-marketing-core-staging`) to access them.
 
 ## LN Confluence Connector
 
